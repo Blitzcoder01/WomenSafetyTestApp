@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "277176005926",
+    "project_id": "hack36-7440f",
+    "storage_bucket": "hack36-7440f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277176005926:android:553f4ed846489ed9dabde7",
+        "android_client_info": {
+          "package_name": "com.example.womensafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277176005926-91r0n01tj9oh88cgnj83uqr4m0uova6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2JSIJDM6w8nCyFvFhTiGPNJSHVcrp4U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277176005926-91r0n01tj9oh88cgnj83uqr4m0uova6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277176005926:android:ffa3edf36cb909a2dabde7",
+        "android_client_info": {
+          "package_name": "com.hello.hack36"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277176005926-91r0n01tj9oh88cgnj83uqr4m0uova6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2JSIJDM6w8nCyFvFhTiGPNJSHVcrp4U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277176005926-91r0n01tj9oh88cgnj83uqr4m0uova6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

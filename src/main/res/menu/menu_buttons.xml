@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:fontFamily="@font/amarante"
+        android:id="@+id/period"
+        android:title="Period Tracker"
+        android:icon="@drawable/period"
+        />
+
+    <item
+        android:fontFamily="@font/amarante"
+        android:id="@+id/help"
+        android:title="Help"
+        android:icon="@drawable/home"
+        />
+    <item
+        android:fontFamily="@font/amarante"
+        android:id="@+id/location"
+        android:title="Location Tracker"
+        android:icon="@drawable/track"
+        />
+
+</menu>
